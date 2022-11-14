@@ -40,3 +40,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "delayed_job_active_record", "~> 4.1"
+
+gem "net-smtp", "~> 0.3.3"
